@@ -1,24 +1,12 @@
-# README
+# サイト名ファッションチェッカー
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+サイト概要
 
-* Ruby version
+* サイトテーマ　出かける時の服装を投稿してアドバイスをもらったり評価をしてもらうサイト
 
-* System dependencies
+* テーマを選んだ理由　自分があまり服に自信がないのでアドバイスや評価をもらうことでファッションセンスを磨きたいと思ったので。
 
-* Configuration
+* ターゲットユーザー　服に自信がなくてファッションのアドバイスが欲しい人
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* 主な利用シーン　出かける時の服を投稿してアドバイスをもらったり、他人の投稿を見て自分のファッションの参考にする。
