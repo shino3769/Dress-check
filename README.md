@@ -21,9 +21,9 @@ Things you may want to cover:
 
 * Deployment instructions
 
-*ファッションチェッカー*
 
-# サイト概要
+
+# *ファッションチェッカー*概要
 
 # サイトテーマ　
  
